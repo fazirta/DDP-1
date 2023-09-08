@@ -1,0 +1,6 @@
+Menurut saya, kemampuan saya dalam memrogram dari skala 1 (tidak bisa sama sekali) sampai 5 (sangat mahir) adalah 9.
+Karena saya sudah belajar memrogram sejak smp dan sudah membuat projek-projek website menggunakan bahasa pemrograman python.
+Akan tetapi, saya menyadari kalau saya belum terlalu mahir dalam menyusun algoritma. Maka dari itu, saya memberikan nilai 9.
+
+Ekspektasi dan harapan saya untuk asisten dosen DDP1 adalah dapat memberikan arahan tentang mata kuliah DDP1 sehingga 
+kegiatan perkuliahan dapat berjalan secara lancar.
