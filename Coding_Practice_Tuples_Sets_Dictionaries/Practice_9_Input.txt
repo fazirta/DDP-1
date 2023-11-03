@@ -1,0 +1,5 @@
+Bread,Diaper,Pencil,Bagel,Meat
+Bagel,Cheese,Milk,Meat
+Bread
+Pencil,Diaper,Bagel
+Bread,Bagel,Milk
